@@ -1,1 +1,1 @@
-# submission_reminder_app_1kirezi
+This is my assignment submission
